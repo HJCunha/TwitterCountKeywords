@@ -2,6 +2,7 @@
 /**
  * Twitter Keyword Counter : This file starts and execute the system.
  * 
+ * TEST
  * The account name ( or Screen Name ) must be passed as an argument from the 
  * command line.
  *
